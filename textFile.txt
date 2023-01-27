@@ -1,5 +1,3 @@
 Now this is the file I am working on 
-<<<<<<< HEAD
 v4
 v1
->>>>>>> d0764bf2ddf9a8f22e089a52d66dfd96d86815e7
